@@ -8,6 +8,7 @@ public class AnimateHandOnInput : MonoBehaviour
 {
     public InputActionProperty pinchAnimAction;
     public InputActionProperty gripAnimAction;
+    
 
     public Animator HandAnimator;
 
